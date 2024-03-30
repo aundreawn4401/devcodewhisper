@@ -1,0 +1,33 @@
+{
+  "name": "devcodewhisper",
+  "version": "1.0.2",
+  "description": "devcodewhisper",
+  "type": "module",
+  "main": "devcodewhisper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aundreawn4401/devcodewhisper"
+  },
+  "website": "https://github.com/aundreawn4401/devcodewhisper.git",
+  "keywords": [
+    "devcodewhisper"
+  ],
+  "author": "aundreawn4401",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aundreawn4401/devcodewhisper/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/aundreawn4401/devcodewhisper#readme",
+  "dependencies": {
+    "programcodesavvy": "1.0.2",
+    "codescriptcraft": "1.0.2",
+    "programscriptcraft": "1.0.2"
+  }
+}
